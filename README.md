@@ -15,6 +15,8 @@ The app includes an example of a OneSignal push notification. The screenshot abo
 
 ## Local Notification
 
+<img src="https://res.cloudinary.com/deyoek1lq/image/upload/v1681912149/Screenshot_2023-04-19_191815_qxqj2n.png" alt="local push notification screenshot" width="250" height="550" />
+
 Click the play button to view the video demonstration of the local notification implementation in this app.
 
 <video src="https://res.cloudinary.com/deyoek1lq/video/upload/v1681903462/local_notification_bmuknk.webm" alt="Local Notification" width="250" height="550" controls></video>
