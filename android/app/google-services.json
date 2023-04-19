@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "327369009034",
+    "project_id": "onsignel-pushnnotification",
+    "storage_bucket": "onsignel-pushnnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327369009034:android:add6a162cfb448ef4a0a73",
+        "android_client_info": {
+          "package_name": "com.example.onsignel_pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327369009034-dftebt00pepv419uh8r42h8912ln7iij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onsignel_pushnotification",
+            "certificate_hash": "8393ae7063874e1b4bdc719b9fede3809eab27a1"
+          }
+        },
+        {
+          "client_id": "327369009034-6ljbutc5aerl78skrup95nbf52ae03qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXR2_N8eWjRkv85YMS9CLSjocO7h8El4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327369009034-6ljbutc5aerl78skrup95nbf52ae03qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
