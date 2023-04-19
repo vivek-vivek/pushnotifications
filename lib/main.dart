@@ -13,7 +13,7 @@ Future<void> main() async {
   await NotificationService().initNotification();
   // onesignel setup
   OneSignal.shared.setLogLevel(OSLogLevel.verbose, OSLogLevel.none);
-  OneSignal.shared.setAppId("875eb56b-9307-4003-81e7-4d76a2bb8ea3");
+  OneSignal.shared.setAppId(YOUR ONESIGELID);
   OneSignal.shared.promptUserForPushNotificationPermission().then((accepted) {
     log("Accepted permission: $accepted");
   });
