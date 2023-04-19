@@ -32,7 +32,8 @@ To get started with the Flutter Push Notifications Practice Repository, you will
 ## Installation
 
 1. Clone the repository using the following command:
-
+   
+   git clone ".....Url"
 
 2. Navigate into the cloned repository and run the following command to install the required packages:
    
