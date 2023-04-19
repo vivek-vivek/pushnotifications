@@ -10,13 +10,16 @@ This repository is suitable for anyone looking to learn about Flutter push notif
 
 ## OneSignal Push Notification
 
-![OneSignal push notification screenshot](/screenshots/onesignal_notification.png)
-
+<img src="https://res.cloudinary.com/deyoek1lq/image/upload/v1681903475/WhatsApp_Image_2023-04-19_at_4.50.24_PM_c7mhdr.jpg" alt="OneSignal push notification screenshot" width="250" height="550" />
 The app includes an example of a OneSignal push notification. The screenshot above shows how the notification appears on a mobile device.
 
 ## Local Notification
 
-[![Local notification video](/screenshots/local_notification.png)](https://youtu.be/YOUR_VIDEO_ID)
+Click the play button to view the video demonstration of the local notification implementation in this app.
+
+<video src="https://res.cloudinary.com/deyoek1lq/video/upload/v1681903462/local_notification_bmuknk.webm" alt="Local Notification" width="250" height="550" controls></video>
+
+If the video does not load, you can view it at this link: https://res.cloudinary.com/deyoek1lq/video/upload/v1681903462/local_notification_bmuknk.webm
 
 The app includes an example of a local notification using the Flutter Local Notification package. Click on the image above to see a video demonstration of the notification.
 
@@ -30,14 +33,29 @@ To get started with the Flutter Push Notifications Practice Repository, you will
 
 
 2. Navigate into the cloned repository and run the following command to install the required packages:
+   
+   flutter pub get
 
 
 3. Run the app using the following command:
 
+   flutter run
+
 
 ## Usage
 
-Use the app to practice push notification implementation in Flutter applications. The app includes examples of push notifications using Firebase Cloud Messaging (FCM), OneSignal, and Flutter Local Notification packages.
+Use the app to practice push notification implementation in Flutter applications. The app includes examples of push notifications using firebase, OneSignal, and Flutter Local Notification packages.
+
+## Packages that used:
+
+  firebase_core: ^2.10.0
+  
+  onesignal_flutter: ^3.5.1
+  
+  flutter_local_notifications: ^9.5.3+1
+  
+  timezone: ^0.8.0
+
 
 ## Contributions
 
