@@ -19,7 +19,7 @@ The app includes an example of a OneSignal push notification. The screenshot abo
 
 Click the play button to view the video demonstration of the local notification implementation in this app.
 
-<video src="https://res.cloudinary.com/deyoek1lq/video/upload/v1681903462/local_notification_bmuknk.webm" alt="Local Notification" width="250" height="550" controls></video>
+<video src="https://res.cloudinary.com/deyoek1lq/video/upload/v1681903462/local_notification_bmuknk.webm" alt="Local Notification"></video>
 
 If the video does not load, you can view it at this link: https://res.cloudinary.com/deyoek1lq/video/upload/v1681903462/local_notification_bmuknk.webm
 
